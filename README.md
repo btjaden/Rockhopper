@@ -1,6 +1,8 @@
 Rockhopper
 ==========
 
+Rockhopper: http://cs.wellesley.edu/~btjaden/Rockhopper/
+
 For computational analysis of bacterial RNA-seq data
 
 Rockhopper is a comprehensive and user-friendly system for computational analysis of bacterial RNA-seq data. As input, Rockhopper takes RNA sequencing reads output by high-throughput sequencing technology (FASTQ, QSEQ, FASTA, SAM, or BAM files). Rockhopper supports the following tasks:
